@@ -124,19 +124,6 @@ Feel free to fork this repository and contribute!
 ```bash
 git clone https://github.com/yogeshgmakvana/authentication-app.git
 ```
-<h2 align="center">📸 App Screenshots</h2>
-
-<p align="center">
-  <img src="screenshots/pic1.png" width="200"/>
-  <img src="screenshots/pic2.png" width="200"/>
-  <img src="screenshots/pic3.png" width="200"/>
-</p>
-
-<p align="center">
-  <img src="screenshots/pic4.png" width="200"/>
-  <img src="screenshots/pic5.png" width="200"/>
-</p>
-
 
 ## 👨‍💻 Developer
 
